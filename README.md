@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **C# .Net**
 
-- 📝 I regularly write articles on [https://www.czy233.com/](https://www.czy233.com/)
+- 📝 I regularly write articles on [https://leo12025.me/](https://leo12025.me/)
 
-- 📫 How to reach me **me@czy233.com**
+- 📫 How to reach me **leo12025@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
